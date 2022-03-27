@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(201, 153, 255);
+}
+.a{
+    width: 80%;
+    font-size: 23px;
+}
+.b, #object-accuracy, #object-{
+    color: rgb(47, 1, 58);
+}
+#camera{
+    border: 2px dashed rgb(26, 2, 31);
+    width: 350px;
+    height: 350px;
+}
